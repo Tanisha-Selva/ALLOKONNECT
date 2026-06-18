@@ -32,7 +32,7 @@ Installation
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/allok-reminders.git
+git clone <repository link>.git
 2. Install dependencies:
    ```bash
    npm install
